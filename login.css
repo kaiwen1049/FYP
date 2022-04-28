@@ -1,0 +1,21 @@
+.text-center{
+    font-size: 35px !important;
+    font-weight: bolder !important;
+    color: orange;
+}
+
+form{
+    padding:55px;
+    border: solid rgba(255, 166, 0, 0.377);
+    border-radius: 5px;
+    color: orange;
+}
+
+body{
+    background-color: #282828 !important;
+    padding-top: 62px;
+}
+
+.btn{
+    width: 100%;
+}
